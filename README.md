@@ -62,5 +62,6 @@ In this section, you’ll use the original parameters that the starter code prov
 
 3. Backtest the new model to evaluate its performance. Save a PNG image of the cumulative product of the actual returns vs. the strategy returns for this updated trading algorithm, and write your conclusions in your `README.md` file. Answer the following questions: Did this new model perform better or worse than the provided baseline model? Did this new model perform better or worse than your tuned trading algorithm?
 
-#### Evaluation Report
-
+#### Evaluation Report:
+##### Performance Metrics - 
+The key metrics used were a confusion matrix and classification report. The original SVM machine learning model resulted in an Accuracy score of 55% with a Recall value for the Sell Signal of .04% and for the Buy Signal of 96%. The model had a higher True Predicted value for 1 compared to 0. 
