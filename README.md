@@ -1,5 +1,5 @@
 # Trading_Algorithms
-Objective: Utilize existing trading signals with machine learning algorithms that can adapt to new data to improve existing algorithmic trading systems
+Objective: Utilize trading signals with machine learning algorithms to adapt to new data and improve existing algorithmic trading systems
 
 ## Background: 
 In this Challenge, you’ll assume the role of a financial advisor at one of the top five financial advisory firms in the world. Your firm constantly competes with the other major firms to manage and automatically trade assets in a highly dynamic environment. In recent years, your firm has heavily profited by using computer algorithms that can buy and sell faster than human traders.
